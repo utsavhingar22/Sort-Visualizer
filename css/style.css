@@ -76,10 +76,10 @@ body {
 
 /* Center css */
 .center {
-  margin: 0 auto;
+  margin: 40px auto 0;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; /* Added shadow to make page border free */
   height: 420px;
-  width: 410px;
+  width: 90%;
   max-height: 731px;
 }
 .array {
@@ -146,6 +146,25 @@ footer {
   font-size: 20px;
 }
 
+.details{
+  margin-top: 40px;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+pre{
+    white-space: pre-wrap;
+}
+.algo-info, .algo-comp{
+  width: 50%;
+  padding: 20px;
+  text-align: left;
+}
+
+.algo-info{
+  border-right: 2px solid grey;
+}
+
 @media screen and (max-width: 600px) {
   .navbar {
     gap: 0.4em;
@@ -165,6 +184,14 @@ footer {
   }
   a.start {
     order: 5;
+  }
+
+  .algo-info, .algo-comp{
+    width: 100%;
+  }
+
+  .algo-info{
+    border-right: 0;
   }
 }
 @media screen and (max-width: 550px) {
