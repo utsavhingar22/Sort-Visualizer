@@ -1,10 +1,10 @@
-# Sorting algorithm visualizer
+## Sorting algorithm visualizer
 
 This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
 
-**Live-** [sorting visualizer]-https://sortittovisualise.netlify.app/
+**Live-** [sorting visualizer](https://sortittovisualise.netlify.app/)
 
-**Code-** [sort visualizer code]-https://github.com/utsavhingar22/Sort-Visualizer.git
+**Code-** [sort visualizer code](https://github.com/utsavhingar22/Sort-Visualizer.git)
 
 ## Purpose
 
@@ -22,7 +22,7 @@ This application supports the following sorting algorithms:
 5. **Quick Sort**.
 
 
-App Design
+##App Design
 The design of the app was largely inspired by Google's Material Design Guidelines.
 
 The app is responsive, meaning it works across a variety of screen sizes and dimensions.
