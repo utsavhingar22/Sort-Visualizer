@@ -8,7 +8,7 @@ This is a web application built using HTML, CSS, Javascript to visualize classic
 
 ## Purpose
 
-We made this sorting visualizer web application to improve my skills more in
+Me and myfriend made this sorting visualizer web application to improve my skills more in
 HTML, CSS, and JS. And to help the beginners in programming to gain more knowledge and understanding on sorting algorigthms by visualizing them.
 
 ## What the Sorting algorithms inside this application
