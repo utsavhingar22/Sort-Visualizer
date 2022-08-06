@@ -165,6 +165,17 @@ pre{
   border-right: 2px solid grey;
 }
 
+.legends{
+  margin: 20px 0;
+  padding:  10px 20px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.legends > div > div, .legends > div > p{
+  display: inline-block;
+}
 @media screen and (max-width: 600px) {
   .navbar {
     gap: 0.4em;
